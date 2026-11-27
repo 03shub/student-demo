@@ -41,12 +41,6 @@ def get_columns():
             "width": 180
         },
         {
-            "label": "Location",
-            "fieldname": "location",
-            "fieldtype": "Data",
-            "width": 120
-        },
-        {
             "label": "Purchase Date",
             "fieldname": "purchase_date",
             "fieldtype": "Date",
